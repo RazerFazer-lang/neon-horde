@@ -26,4 +26,3 @@ Koop-Wellen-Survival für 1–4 Spieler an einem Gerät, im Stil von Vampire Sur
 - Gemeinsames Team-Level mit Upgrade-Auswahl
 - Combo-System mit Overdrive
 - Rekord wird lokal im Browser gespeichert
-</parameter>
